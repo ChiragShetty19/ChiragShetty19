@@ -120,7 +120,7 @@ Building practical projects with **AI, Machine Learning, Data Science, and Pytho
   <a href="https://github.com/ChiragShetty19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/">
+  <a href="www.linkedin.com/in/chirag-shetty-648181426">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
